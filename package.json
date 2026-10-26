@@ -1,8 +1,7 @@
 {
   "name": "@local/agent-creator-poc",
-  "version": "0.1.0",
+  "name": "@mana-agency/agent-creator-poc",
   "private": true,
-  "type": "module",
   "description": "Prints a greeting line in the Harness Web UI: What would you like to do today?",
   "exports": {
     ".": "./index.js",
