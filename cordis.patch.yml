@@ -1,0 +1,5 @@
+# Installs the agent-creator-poc bundle. The Host half is intentionally inert:
+# the Client module registers the Settings row that prints the greeting.
+- insert:
+    - id: agent-creator-poc
+      name: '@local/agent-creator-poc'
