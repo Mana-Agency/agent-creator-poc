@@ -11,7 +11,7 @@
  * The Host half (index.js) is intentionally inert.
  */
 window.__ModuleLoader__.load({
-  id: '@local/agent-creator-poc',
+  id: '@mana-agency/agent-creator-poc',
   factory(require) {
     const React = require('react');
     const h = React.createElement;
@@ -97,3 +97,4 @@ window.__ModuleLoader__.load({
     };
   },
 });
+
